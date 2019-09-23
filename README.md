@@ -1,4 +1,4 @@
-# fastai-vision-docker
+# fastai-text-docker
 
 This is a docker container with fastai core and text(spacy) libraries installed using conda. This can be used as a base container for deploying prediction workflows. The pre-built container is available [on dockerhub](https://hub.docker.com/r/beapen/fastai-text) as beapen/fastai-text:latest
 
