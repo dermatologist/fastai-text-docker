@@ -1,0 +1,17 @@
+pytorch-cpu
+spacy
+spacy-model-en_core_web_sm
+Pillow 
+beautifulsoup4
+bottleneck
+dataclasses
+fastprogress
+matplotlib
+numexpr
+numpy
+packaging
+pandas
+pyyaml
+requests
+scipy
+typing
